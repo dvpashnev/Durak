@@ -929,6 +929,8 @@ namespace DurakWinForms
       
       if (game.CurrGameState.GameRun == 2)
       {
+        BeginInvoke(new Action<string>(n => gameStateTb.Text = n), game.CurrGameState.GameStateMessage);
+
         if (!RemotingServices.IsTransparentProxy(game)) // Мы на сервере
         {
           new Thread(() =>

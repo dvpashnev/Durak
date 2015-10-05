@@ -13,3 +13,12 @@ C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\Dura
 d:\GitHub\Durak\DurakWinForms\bin\Release\DurakWinForms.exe.config
 d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.exe
 d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.pdb
+d:\GitHub\Durak\DurakWinForms\bin\Release\DurakWinForms.exe
+d:\GitHub\Durak\DurakWinForms\bin\Release\DurakWinForms.pdb
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.csprojResolveAssemblyReference.cache
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.CreateServer.resources
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.Form1.resources
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.InputBox.resources
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.Pictures.resources
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.Properties.Resources.resources
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.csproj.GenerateResource.Cache
