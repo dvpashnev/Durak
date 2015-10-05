@@ -1,0 +1,15 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\bin\Release\DurakWinForms.exe.config
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\bin\Release\DurakWinForms.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\bin\Release\DurakWinForms.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.CreateServer.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.Form1.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.InputBox.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.Pictures.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.Properties.Resources.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.csproj.GenerateResource.Cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Release\DurakWinForms.pdb
+d:\GitHub\Durak\DurakWinForms\bin\Release\DurakWinForms.exe.config
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.exe
+d:\GitHub\Durak\DurakWinForms\obj\Release\DurakWinForms.pdb

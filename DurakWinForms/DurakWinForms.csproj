@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C15C89FF-5E74-42FA-BF56-7F98C802963A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DurakWinForms</RootNamespace>
+    <AssemblyName>DurakWinForms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreateServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateServer.Designer.cs">
+      <DependentUpon>CreateServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pictures.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pictures.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CreateServer.resx">
+      <DependentUpon>CreateServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pictures.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Pictures.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardBacks\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardBacks\back_black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Ace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Eight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Jack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_King.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Nine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Queen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Seven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Six.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Clubs_Ten.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Ace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Eight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Jack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_King.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Nine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Queen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Seven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Six.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Diamonds_Ten.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Ace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Eight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Jack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_King.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Nine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Queen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Seven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Six.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Hearts_Ten.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Ace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Eight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Jack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_King.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Nine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Queen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Seven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Six.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardPics\Spades_Ten.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardSuits\Clubs.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardSuits\Diamonds.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardSuits\Hearts.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CardSuits\Spides.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,47 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\bin\Debug\DurakWinForms.exe.config
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\bin\Debug\DurakWinForms.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\bin\Debug\DurakWinForms.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.Form1.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.Properties.Resources.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.csproj.GenerateResource.Cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.Pictures.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.InputBox.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms\DurakWinForms\obj\Debug\DurakWinForms.CreateServer.resources
+m:\NP\DurakWinForms3\DurakWinForms\bin\Debug\DurakWinForms.exe.config
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.exe
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.pdb
+m:\NP\DurakWinForms3\DurakWinForms\bin\Debug\DurakWinForms.exe
+m:\NP\DurakWinForms3\DurakWinForms\bin\Debug\DurakWinForms.pdb
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.csprojResolveAssemblyReference.cache
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.CreateServer.resources
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.Form1.resources
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.InputBox.resources
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.Pictures.resources
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.Properties.Resources.resources
+m:\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.csproj.GenerateResource.Cache
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\bin\Debug\DurakWinForms.exe.config
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.exe
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.pdb
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\bin\Debug\DurakWinForms.exe
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\bin\Debug\DurakWinForms.pdb
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.CreateServer.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.Form1.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.InputBox.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.Pictures.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.Properties.Resources.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms3\DurakWinForms\obj\Debug\DurakWinForms.csproj.GenerateResource.Cache
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\bin\Debug\DurakWinForms.exe.config
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.exe
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.pdb
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\bin\Debug\DurakWinForms.exe
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\bin\Debug\DurakWinForms.pdb
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.csprojResolveAssemblyReference.cache
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.CreateServer.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.Form1.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.InputBox.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.Pictures.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.Properties.Resources.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\NP\DurakWinForms4\DurakWinForms\obj\Debug\DurakWinForms.csproj.GenerateResource.Cache
