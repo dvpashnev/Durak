@@ -555,8 +555,6 @@ namespace DurakWinForms
         GameField.Controls.Clear();
       }));
 
-      BeginInvoke(new Action<string>(n => gameStateTb.Text = n), game.CurrGameState.GameStateMessage);
-
       if (gameState.Gamers.Count > 1)
       {
         int i = 1;
